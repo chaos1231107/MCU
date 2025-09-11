@@ -1,6 +1,4 @@
-* Created: 2025-09-11 오후 1:45:33
- * Author : GC
- */ 
+
 // 14.7mhz 로 동작
 #define F_CPU 14745600UL
 #include <avr/io.h>
